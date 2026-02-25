@@ -1,0 +1,6 @@
+nume1=float(input("Digite a merda do seu número: "))
+nume2=float(input("Digite o segundo número dessa bosta: "))
+
+soma=nume1+nume2
+
+print(f"Sua soma deu {soma} ")
